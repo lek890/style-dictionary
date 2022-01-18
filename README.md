@@ -1,3 +1,11 @@
+[POC] seamless design to developer handoff of design token 
+
+from figma here https://www.figma.com/file/vHdWSFYmNPmXwfchUeKe1q/Polaris-for-Admin%3A-Components-(Community)?node-id=30626%3A0
+via file exporter: https://glitch.com/edit/#!/obtainable-hickory-fontina?path=server.js%3A35%3A0
+to the output folder of this repo.
+
+references: https://www.michaelmang.dev/blog/exporting-design-tokens-from-figma-with-style-dictionary
+
 # Basic Style Dictionary
 
 This example code is bare-bones to show you what this framework can do. If you have the style-dictionary module installed globally, you can `cd` into this directory and run:
